@@ -1,0 +1,7 @@
+interface:
+  display_name: "AI Tutor"
+  short_description: "系统学习 AI 底层原理、应用框架与产品实践能力的教练"
+  default_prompt: "使用 $ai-tutor 帮我制定并执行一套可持续的 AI 学习计划。"
+
+policy:
+  allow_implicit_invocation: true
